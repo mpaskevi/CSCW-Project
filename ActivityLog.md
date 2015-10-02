@@ -10,7 +10,7 @@ Established that the purpose of our project is to design and evaluate some appli
 * Eli - Enjoys programming, some experience with C, Python and Java. 
 * Krista - Enjoys design and user interfaces
 * Maryia - Experience with software development in desktop environments, enjoys design 
-* Michael - Interseted in research, data analysis, writing, etc.
+* Michael - Interested in research, data analysis, writing, etc.
 
 Some ideas for the project were discussed: 
 * Eli mentioned a Twitch based collaborative gaming project idea - perhaps scope out more for next weeks meeting.
@@ -23,4 +23,4 @@ Some ideas for the project were discussed:
 2. Create GitHub accounts (if you don't have one already), submit the username to Maryi -to be added to the repository, and play around with the tool.
 
 *Next meeting:* Oct. 7th 12:45 place?  
-  * I suggest we consdier a new place, but I do not know the buildings around CS well.  
+  * I suggest we consider a new place, but I do not know the buildings around CS well.  
